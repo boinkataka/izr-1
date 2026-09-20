@@ -1,0 +1,9 @@
+Project 1 
+Access the cloudflare mcp server and find out all the available capabilities and one line summary of each and write markdown report
+
+Project 2
+Search official openrouter website and find out this information for an openrouter account which has topped up credits
+1. Total number of requests per minute for free models
+2. Request quota for each day for free models
+3. Total token quota for each for free models
+Draft detailed report
