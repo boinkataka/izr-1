@@ -1,2 +1,0 @@
-Project1
-1. Examine the plugins linked to my cli harness and write a report on how to use them to cut down my total token spend 
